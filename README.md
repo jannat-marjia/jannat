@@ -1,5 +1,6 @@
 
-<img width="100%" src="https://raw.githubusercontent.com/jannat/jannat/main/banner.png" />
+<img width="100%" src=["(https://github.com/jannat-marjia/jannat/blob/main/banner.png)"]/>
+
 # Hi 👋, I'm Jannatul Ferdouse
 
 ### Frontend Developer | MERN Stack Learner | Passionate About Building Modern Web Applications 🚀
