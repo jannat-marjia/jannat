@@ -1,6 +1,7 @@
 # Hi 👋, I'm Jannatul Ferdouse
 
 ### Frontend Developer | MERN Stack Learner | Passionate About Building Modern Web Applications 🚀
+<img width="100%" src="PASTE-IMAGE-LINK-HERE" />
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
