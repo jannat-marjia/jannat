@@ -7,7 +7,7 @@
 - 🌱 Currently learning **MERN Stack Development**
 - 💻 Building modern and responsive web applications
 - 🎯 Goal: Become a Professional Full Stack Developer
-- 📫 Email: marjiajannatul34@gmail.com
+- 📫 Email: jannatulferdouse7124@gmail.com
 - 🌍 Location: Bangladesh
 
 ---
